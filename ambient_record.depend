@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1606114318 source:c:\users\hyeon\documents\cdbl_workspace\ambient_record\main.cpp
+	<iostream>
+	<sstream>
+	<queue>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<pthread.h>
+	<complex>
+	<valarray>
+	<math.h>
+	"visualworker.h"
+	"global.h"
+
+1601134685 c:\users\hyeon\documents\cdbl_workspace\ambient_record\global.h
+
+1600095567 source:c:\users\hyeon\documents\cdbl_workspace\ambient_record\visualworker.cpp
+	"visualworker.h"
+	<sstream>
+
+1600587974 c:\users\hyeon\documents\cdbl_workspace\ambient_record\visualworker.h
+	<iostream>
+	<queue>
+	<SFML/Graphics.hpp>
+	<pthread.h>
+	"global.h"
+
